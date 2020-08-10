@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Dummy_Swift_Package",
+        "repositoryURL": "https://github.com/JZDesign/Dummy_Swift_Package",
+        "state": {
+          "branch": null,
+          "revision": "7513880e85e290e33f6f349bd861d2c0ab578036",
+          "version": "0.1.12"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
